@@ -20,8 +20,8 @@ This is the Next.js frontend for the Health Lab Report Dashboard project.
 - Run: `pnpm dev` (or `npm run dev`)
 
 ## Live Demo
-- [Your Vercel URL here]
+- health-report-frontend.vercel.app
+
 
 ---
 
-For more details, see the backend repo or contact the maintainer. 
